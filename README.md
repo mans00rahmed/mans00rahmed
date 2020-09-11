@@ -1,10 +1,10 @@
-<img src="https://document-export.canva.com/DAEHhCszA3Q/14/thumbnail/ujhy2dzn7uB_HzPII7WfsQ-0001-10732396963.png" alt="">
+<img src="https://github.com/mansoorahmed-asterics/my-personal-repository/blob/master/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png" align="center">
 
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Mansoor AHmed! 👋 <br>
-    🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
+    Hi, I'm Mansoor Ahmed! 👋 <br>
+    🔥 20 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	mansoorahmed@ieee.org <br>
