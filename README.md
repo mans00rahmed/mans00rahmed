@@ -10,7 +10,9 @@
     :email:	mansoorahmed@ieee.org <br>
    :hand: <b>Affiliations</b> IEEE Computer Society | Google Developers Group | Asterisks.io | Tedx | SMIT <br>
     :art: Portfolio: You are already here! <br>
-    :briefcase: LinkedIn: https://www.linkedin.com/in/mansoor-ahmed-23b509147/ <br>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height="21px" width="20px>  
+    <a href="https://www.linkedin.com/in/mansoor-ahmed-23b509147/">LinkedIn</a> <br>
+   
+
   </samp>
 </p>
-
