@@ -1,7 +1,8 @@
 <img src="https://github.com/mansoorahmed-asterics/my-personal-repository/blob/master/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png" align="center">
 
+![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoorahmed-asterics&show_icons=true&theme=radical)
  <hr></hr>
-<p align="center">
+<p align="left">
   <samp>
     Hi, I'm Mansoor Ahmed! 👋 <br>
     🔥 20 Year's Old Software Developer grinding hard to developing something cool  <br>
@@ -17,3 +18,7 @@
 
   </samp>
 </p>
+<hr></hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmed-asterics&theme=radical)](https://github.com/mansoorahmed-asterics/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/mansoorahmed-asterics/github-readme-stats)
