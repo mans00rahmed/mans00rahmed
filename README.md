@@ -21,4 +21,3 @@
 <hr></hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmed-asterics&theme=radical)](https://github.com/mansoorahmed-asterics/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/mansoorahmed-asterics/github-readme-stats)
