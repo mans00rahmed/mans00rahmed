@@ -1,23 +1,35 @@
 <img src="https://github.com/mansoorahmed-asterics/my-personal-repository/blob/master/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png" align="center">
+<h1>Hey there, I'm <a  href="https://github.com/mansoorahmed-asterics/">Mansoor </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoorahmed-asterics&show_icons=true&theme=radical)
- <hr></hr>
+[![linkedin badge](https://img.shields.io/badge/mansoor-ahmed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansoor-ahmed-23b509147/)
+[![twitter badge](https://img.shields.io/badge/@mansoorahmed_d-30302f?style=flat&logo=twitter)](https://twitter.com/MansoorAhmed_d)
+[![Gmail Badge](https://img.shields.io/badge/mansoorahmedy2k@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mansoorahmedy2k@gmail.com)
+
+I'm a 3rd year **Software Engineering** student from **UIT, Karachi**. 🏫 <br> 
+<img align='right' src="http://cdn.lowgif.com/small/efd7edb699ac018a-.gif" width="350" height="250">
+
+- 🔭 I’m currently interning as a **Backend Developer**. 
+- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
+- 👯 I’d really like to collaborate on **Native** based projects.
+- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- ⚡ Fun fact: In my free time, you'll find me sketching or scrolling through Twitter.
+
+<h2 align="left">Tech Stack</h2>
 <p align="left">
-  <samp>
-    Hi, I'm Mansoor Ahmed! 👋 <br>
-    🔥 20 Year's Old Software Developer grinding hard to developing something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Python ... <br>
-    :notebook: Note down thinkings and bring it in reality <br>
-    :email:	mansoorahmed@ieee.org <br>
-   :hand: <b>Affiliations</b> IEEE Computer Society |<img src="https://www.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-128.png" height="21px" width="20px"> Google Developers Group | Asterisks.io |<img src="https://www.iconfinder.com/data/icons/social-network-8/50/53-128.png" height="21px" width="20px"> Tedx | SMIT <br>
-    :art: Portfolio: You are already here! <br>
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height="21px" width="20px>  
-    "https://www.linkedin.com/in/mansoor-ahmed-23b509147/" <br>
-   <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-128.png" height="21px" width="20px>  
-    "https://twitter.com/MansoorAhmed_d" <br>
+ <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bulma-00C7B7?style=for-the-badge&logo=bulma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ <br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+ </p>
 
-  </samp>
-</p>
-<hr></hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmed-asterics&theme=radical)](https://github.com/mansoorahmed-asterics/github-readme-stats)
+|<img src="https://github-readme-stats.vercel.app/api?username=mansoorahmed-asterics&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorahmed-asterics&&theme=radical&&hide_border=false&&show_icons=true"/>|
+|---|---|
