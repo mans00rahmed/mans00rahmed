@@ -26,6 +26,8 @@ I'm a 3rd year **Software Engineering** student from **UIT, Karachi**. 🏫 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-07405E?style=for-the-badge&logo=react&logoColor=white"/>
+
  </p>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=mansoorahmed-asterics&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorahmed-asterics&&theme=radical&&hide_border=false&&show_icons=true"/>|
