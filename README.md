@@ -1,5 +1,5 @@
-<img src="https://github.com/mansoorahmed-asterics/my-personal-repository/blob/master/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png" align="center">
-<h1>Hey there, I'm <a  href="https://github.com/mansoorahmed-asterics/">Mansoor </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img src="https://github.com/mans00rahmed/my-personal-repository/blob/master/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png" align="center">
+<h1>Hey there, I'm <a  href="https://github.com/mans00rahmed/">Mansoor </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/mansoor-ahmed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansoor-ahmed-23b509147/)
 [![twitter badge](https://img.shields.io/badge/@mansoorahmed_d-30302f?style=flat&logo=twitter)](https://twitter.com/MansoorAhmed_d)
@@ -31,5 +31,5 @@ I'm a 3rd year **Software Engineering** student from **UIT, Karachi**. 🏫 <br>
 
  </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=mansoorahmed-asterics&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorahmed-asterics&&theme=radical&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=mans00rahmed&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mans00rahmed&&theme=radical&&hide_border=false&&show_icons=true"/>|
 |---|---|
