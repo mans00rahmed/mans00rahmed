@@ -33,3 +33,9 @@ I'm a 3rd year **Software Engineering** student from **UIT, Karachi**. 🏫 <br>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=mans00rahmed&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mans00rahmed&&theme=radical&&hide_border=false&&show_icons=true"/>|
 |---|---|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mans00rahmed&&theme=radical&layout=compact)](https://github.com/mans00rahmed/github-readme-stats)
+
+### Contribution Graph:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mans00rahmed&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
