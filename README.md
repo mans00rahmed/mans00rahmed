@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/@mansoorahmed_d-30302f?style=flat&logo=twitter)](https://twitter.com/MansoorAhmed_d)
 [![Gmail Badge](https://img.shields.io/badge/mansoorahmedy2k@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mansoorahmedy2k@gmail.com)
 
-I'm a 3rd year **Software Engineering** student from **UIT, Karachi**. 🏫 <br> 
+I'm a Final year **Software Engineering** student from **UIT, Karachi**. 🏫 <br> 
 <img align='right' src="http://cdn.lowgif.com/small/efd7edb699ac018a-.gif" width="350" height="250">
 
 - 🔭 I’m currently interning as a **Backend Developer**. 
