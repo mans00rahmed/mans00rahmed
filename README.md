@@ -39,3 +39,5 @@ I'm a Final year **Software Engineering** student from **UIT, Karachi**. 🏫 <b
 ### Contribution Graph:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mans00rahmed&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
