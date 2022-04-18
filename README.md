@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/mansoorahmedy2k@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mansoorahmedy2k@gmail.com)
 
 I'm a Final year **Software Engineering** student from **UIT, Karachi**. 🏫 <br> 
-<img align='right' src="http://cdn.lowgif.com/small/efd7edb699ac018a-.gif" width="350" height="250">
+<img align='right' src="https://i.gifer.com/39Cg.gif" width="350" height="250">
 
 - 🔭 I’m currently interning as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
