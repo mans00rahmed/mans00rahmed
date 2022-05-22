@@ -4,15 +4,18 @@
 [![linkedin badge](https://img.shields.io/badge/mansoor-ahmed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansoor-ahmed-23b509147/)
 [![twitter badge](https://img.shields.io/badge/@mansoorahmed_d-30302f?style=flat&logo=twitter)](https://twitter.com/MansoorAhmed_d)
 [![Gmail Badge](https://img.shields.io/badge/mansoorahmedy2k@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mansoorahmedy2k@gmail.com)
+<br>
 
 I'm a Final year **Software Engineering** student from **UIT, Karachi**. 🏫 <br> 
-<img align='right' src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="350" height="250">
 
 - 🔭 I’m currently interning as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Native** based projects.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: In my free time, you'll find me sketching or scrolling through Twitter.
+
+<img align="right" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="350" height="250">
+
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
