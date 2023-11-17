@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mans00rahmed" alt="mans00rahmed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mans00rahmed" target="blank"><img src="https://img.shields.io/twitter/follow/mans00rahmed?logo=twitter&style=for-the-badge" alt="mans00rahmed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mansoorahmed_d" target="blank"><img src="https://img.shields.io/twitter/follow/mans00rahmed?logo=twitter&style=for-the-badge" alt="mans00rahmed" /></a> </p>
 
 - 🔭 I’m currently working on SpringBoot [HappyHour](github.com/mans00rahmed)
 
