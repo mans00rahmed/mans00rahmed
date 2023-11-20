@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/mans00rahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mans00rahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mans00rahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mans00rahmed/" height="30" width="40" /></a>
-<a href="https://instagram.com/this.mansoorahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this.mansoorahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mansoorahmedy2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mansoorahmedy2k" height="30" width="40" /></a>
+<a href="https://instagram.com/this.mansoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this.mansoorahmed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mansoorahmedy2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mansoorahmedy2k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
