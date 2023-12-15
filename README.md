@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mansoorahmed_d" target="blank"><img src="https://img.shields.io/twitter/follow/mans00rahmed?logo=twitter&style=for-the-badge" alt="mans00rahmed" /></a> </p>
 
-- 🔭 I’m currently working on SpringBoot [HappyHour](github.com/mans00rahmed)
+- 🔭 I’m currently working on SpringBoot.
 
 - 🌱 I’m currently learning **Java, Springboot, Angular**
 
